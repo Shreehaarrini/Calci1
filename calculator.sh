@@ -11,3 +11,5 @@ x=1+2
 sub
 
 y=6-7
+
+echo " everything will be alright"
